@@ -1,0 +1,20 @@
+# Logs
+logs
+*.log
+.lock-wscript
+
+# Runtime data
+*.bak
+pids
+*.pid
+*.seed
+package-lock.json
+
+lib-cov
+coverage
+
+.gitlab
+node_modules
+data
+public
+res/md
